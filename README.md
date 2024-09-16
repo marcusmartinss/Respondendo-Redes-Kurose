@@ -1,10 +1,10 @@
 # Exercícios de Redes de Computadores - Livro "Redes de Computadores e a Internet: Uma Abordagem Top-Down"
 
-Este repositório contém minhas resoluções dos exercícios do livro *"Redes de Computadores e a Internet: Uma Abordagem Top-Down"*, quinta edição, de James F. Kurose e Keith W. Ross. O objetivo deste projeto é fornecer um guia de estudo prático, com soluções documentadas para apoiar o aprendizado de redes de computadores. 
+Este repositório contém minhas resoluções dos exercícios do livro _"Redes de Computadores e a Internet: Uma Abordagem Top-Down"_, quinta edição, de James F. Kurose e Keith W. Ross. O objetivo deste projeto é fornecer um guia de estudo prático, com soluções documentadas para apoiar o aprendizado de redes de computadores.
 
 ## Propósito
 
-O propósito deste repositório é facilitar o estudo de redes de computadores, através da resolução de exercícios propostos no livro, de forma colaborativa e aberta à comunidade. O material aqui disponibilizado é livre para ser utilizado, modificado e compartilhado, desde que sejam atribuídos os devidos créditos aos autores originais, conforme a licença *[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)*.
+O propósito deste repositório é facilitar o estudo de redes de computadores, através da resolução de exercícios propostos no livro, de forma colaborativa e aberta à comunidade. O material aqui disponibilizado é livre para ser utilizado, modificado e compartilhado, desde que sejam atribuídos os devidos créditos aos autores originais, conforme a licença _[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)_.
 
 ## Licença
 
@@ -12,4 +12,15 @@ Este repositório é licenciado sob a licença [Creative Commons Attribution Sha
 
 ## Referência ABNT do Livro
 
-KUROSE, James F.; ROSS, Keith W. *Redes de computadores e a internet: uma abordagem top-down*. 5ª ed. São Paulo: Pearson Addison-Wesley, 2011.
+KUROSE, James F.; ROSS, Keith W. _Redes de computadores e a internet: uma abordagem top-down_. 5ª ed. São Paulo: Pearson Addison-Wesley, 2011.
+
+## Sumário
+
+<details>
+<summary><strong> Capítulo 1 </strong></summary>
+
+- [Exercícios de fixação](./Capitulo-1/ex-fixacao-cap1.md)
+- [Problemas](./Capitulo-1/problemas-cap1.md)
+- [Questões dissertativas](./Capitulo-1/questoes-dissertativas-cap1.md)
+
+<details>
